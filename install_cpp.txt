@@ -1,0 +1,7 @@
+# C++ on Ubuntu/Linux:
+
+################################## C++ #################################
+
+# Install c++ (Ubuntu) command line
+sudo apt update
+sudo apt install g++
