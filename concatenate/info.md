@@ -1,0 +1,2 @@
+# Concatenate CHAR variables
+Source:
